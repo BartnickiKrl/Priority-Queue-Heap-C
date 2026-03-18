@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KolejkaPriorytetowa.cpp">
+    <ClCompile Include="KolejkaPriorytetowa.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PQueue.cpp">
+    <ClCompile Include="PQueue.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

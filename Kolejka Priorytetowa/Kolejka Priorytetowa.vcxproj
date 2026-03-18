@@ -183,8 +183,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="KolejkaPriorytetowa.cpp" />
-    <ClCompile Include="PQueue.cpp" />
+    <ClCompile Include="KolejkaPriorytetowa.c" />
+    <ClCompile Include="PQueue.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="global.h" />
