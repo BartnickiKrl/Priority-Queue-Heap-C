@@ -1,7 +1,7 @@
 # Priority-Queue-Heap-C
 
 ## Overview
-A high-performance implementation of a **Priority Queue** based on a **Binary Heap** (stóg binarny) structure. This project emphasizes low-level system programming and efficient memory management in C.
+A high-performance implementation of a **Priority Queue** based on a **Binary Heap** structure. This project emphasizes low-level system programming and efficient memory management in C.
 
 ## Key Features
 - **Binary Heap Logic:** Efficient implementation using `UpdateUp` and `UpdateDown` (sift-up/sift-down) algorithms to maintain heap properties with **O(log n)** complexity.
